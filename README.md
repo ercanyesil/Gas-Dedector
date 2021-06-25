@@ -1,7 +1,10 @@
 # Gas-Dedector
-MQ-2
 
 We will send the information we receive from the MQ-2 sensor to a server using Esp8266. This server is installed inside the virtual machine. The operating system is Ubuntu. We will use MQTT when sending our data from Esp8266 to the server. We will take the information with Node-Red on our server and save it to InfluxDB. Then we will show the data on InfluxDB visually in Grafana.
+
+
+
+
 
 
 ![led-baglantı](https://user-images.githubusercontent.com/60502103/123486476-c653c200-d614-11eb-9bfe-7027a6dd6239.jpg)
